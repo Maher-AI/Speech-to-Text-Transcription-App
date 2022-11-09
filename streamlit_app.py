@@ -1,4 +1,5 @@
 import streamlit as st
+ pip install pytube
 from pytube import YouTube
 from utilities import get_yt, transcribe_yt
 
