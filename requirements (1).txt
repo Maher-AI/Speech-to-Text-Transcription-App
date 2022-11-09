@@ -1,3 +1,6 @@
 streamlit
 pytube
+
+pip install pytube
+from pytube import YouTube
  git clone git://github.com/pytube/pytube.git
